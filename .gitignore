@@ -1,7 +1,5 @@
 __pycache__/
-*.pyc
-.env
-venv/
+*.py[cod]
 .venv/
-dist/
-build/
+venv/
+governance_results.csv
