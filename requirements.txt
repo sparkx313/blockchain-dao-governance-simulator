@@ -1,1 +1,1 @@
-numpy
+# No third-party dependencies; uses Python 3.11 standard library.
